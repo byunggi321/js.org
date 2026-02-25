@@ -897,7 +897,7 @@ var cnames_active = {
   "documentation": "documentationjs.github.io", // noCF? (don´t add this in a new PR)
   "docx": "dolanmiu.github.io/docx",
   "dodec-design": "dodec-design.github.io",
-  "dodge-style": "dodge-style-game.pages.dev", // <--- 여기에 추가!
+  "dodge-style": "dodge-style-game.pages.dev",
   "dogehq": "dogehq.github.io/dogehq",
   "dogstack": "dogstack.gitbooks.io", // noCF
   "dokdo": "wonderlandpark.github.io/dokdo",
